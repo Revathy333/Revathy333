@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python django**
 
-- 💬 Ask me about **pyhton, css, html**
+- 💬 Ask me about **pyhton, css, html,Javascript**
 
 - 📫 How to reach me **revathykr87@gmail.com**
 
