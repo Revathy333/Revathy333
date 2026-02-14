@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Revathy333" alt="Revathy333" /></a> </p>
 
-- 🌱 I’m currently learning **python django**
+- 🌱 I’m currently working on  **VESTIQUE** project (Designers customers platform)
 
 - 💬 Ask me about **python, css, html, Javascript**
 
