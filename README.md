@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, css, html, Javascript**
 
-- 📫 How to reach me **revathykr87@gmail.com**
+- 📫 How to reach me **connectrevathy17@gmail.com**
 
 - 📄 Know my experiences
 
